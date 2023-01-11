@@ -8,7 +8,7 @@ The schools concept relies on you teaching yourself by learning how to do resear
 Recreating a simple version of the `printf()` function in C which is added to the [libft](https://github.com/Doush-H/libft) library. This version supports the following string conversions: `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, `%%`.
 
 ## In this project I learned about:
-  - Variadic functions
+  - `Variadic functions`
   - Decimal to Hexadecimal conversion
   - Integer to string conversion
 
